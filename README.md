@@ -15,7 +15,7 @@
 
 <br>
 
-![](https://streak-stats.demolab.com/?user=luckyishim&theme=gruvbox&hide_border=true)
+![](https://streak-stats.demolab.com/?user=luckyishim&background=FBF1C7&border=FBF1C7&stroke=D79921&ring=D79921&fire=D79921&currStreakNum=B57614&sideNums=B57614&currStreakLabel=D79921&sideLabels=689D6A&dates=689D6A&hide_border=true)
 
 If you have something interesting to share, feel free to reach out to me.
 
