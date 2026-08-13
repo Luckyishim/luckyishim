@@ -3,7 +3,7 @@
 # Creating Things to be Used
 
 <code>~/luckyishim</code> 
-### Frontend Dev | Content Writer | Undergrad Student
+### FullStack Dev | Content Writer | Undergrad Student
 
 <a href="https://portfolio-website-two-ruddy-31.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge" /></a>
 
