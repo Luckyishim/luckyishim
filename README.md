@@ -2,12 +2,11 @@
 
 # Creating Things to be Used
 
-## luckyishim
+<code>~/luckyishim $</code>
 
 ### Frontend Dev | Content Writer | Undergrad Student
 
 <a href="https://portfolio-website-two-ruddy-31.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge" /></a>
-<a href="https://github.com/Luckyishim"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 [![](https://komarev.com/ghpvc/?username=luckyishim&color=blueviolet)](https://visitcount.itsvg.in)
  <br>
@@ -17,8 +16,6 @@
 <br>
 
 ![](https://streak-stats.demolab.com/?user=luckyishim&theme=gruvbox&hide_border=true)
-
-<br>
 
 If you have something interesting to share, feel free to reach out to me.
 
