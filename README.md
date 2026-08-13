@@ -2,7 +2,7 @@
 
 # Creating Things to be Used
 
-<code>~/luckyishim $</code>  [![](https://komarev.com/ghpvc/?username=luckyishim&color=#FBF1C7)](https://visitcount.itsvg.in)
+<code>~/luckyishim</code> &nbsp;•&nbsp; <img src="https://komarev.com/ghpvc/?username=luckyishim&color=D79921&style=flat" alt="profile views" />
 
 ### Frontend Dev | Content Writer | Undergrad Student
 
