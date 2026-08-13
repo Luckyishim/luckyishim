@@ -1,6 +1,6 @@
 <div align="center">
 
-# Turning ideas into interfaces.
+# Creating Things to be Used
 
 `-=< luckyishim >=-`
 
@@ -11,7 +11,9 @@
 
 <br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=luckyishim&theme=gruvbox_light&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=luckyishim&theme=gruvbox_light&hide_border=true&layout=pie&langs_count=8)
+
+![](https://streak-stats.demolab.com/?user=luckyishim&theme=gruvbox&hide_border=true)
 
 <br>
 
