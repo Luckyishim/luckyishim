@@ -16,11 +16,9 @@
 <br>
 <br>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=luckyishim&theme=gruvbox_light&hide_border=true&layout=pie&langs_count=8)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=luckyishim&theme=gruvbox_light&hide_border=true&layout=compact&langs_count=8)
 
 <br>
-
-![](https://github-readme-stats.shion.dev/api?username=luckyishim&theme=gruvbox_light&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ![](https://streak-stats.demolab.com/?user=luckyishim&theme=gruvbox&hide_border=true)
 
