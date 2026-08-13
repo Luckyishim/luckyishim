@@ -4,10 +4,10 @@
 
 `-=< luckyishim >=-`
 
-### Frontend Developer | B.Sc. IT Student | React Enthusiast
+### Frontend Dev | Content Writer | Undergrad Student
 
 <a href="https://portfolio-website-two-ruddy-31.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge" /></a>
-<a href="https://github.com/Luckyishim"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+
 
 <br>
 
