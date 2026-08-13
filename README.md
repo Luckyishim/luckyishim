@@ -2,19 +2,15 @@
 
 # Creating Things to be Used
 
-`-=< luckyishim >=-`
+## luckyishim
 
 ### Frontend Dev | Content Writer | Undergrad Student
 
 <a href="https://portfolio-website-two-ruddy-31.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge" /></a>
 <a href="https://github.com/Luckyishim"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br>
-
 [![](https://komarev.com/ghpvc/?username=luckyishim&color=blueviolet)](https://visitcount.itsvg.in)
-
-<br>
-<br>
+ <br>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=luckyishim&theme=gruvbox_light&hide_border=true&layout=compact&langs_count=8)
 
