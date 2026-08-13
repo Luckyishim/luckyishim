@@ -2,7 +2,7 @@
 
 # Creating Things to be Used
 
-<code>~/luckyishim</code> &nbsp;•&nbsp; <img src="https://komarev.com/ghpvc/?username=luckyishim&color=D79921&style=flat" alt="profile views" />
+<code>~/luckyishim</code> &nbsp;•&nbsp; <img src="https://komarev.com/ghpvc/?username=luckyishim&color=D79921&style=flat-square&label=👁" alt="views" />
 
 ### Frontend Dev | Content Writer | Undergrad Student
 
